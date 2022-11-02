@@ -1,0 +1,12 @@
+.okay .no-okay{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', Times, serif;
+}
+.okay{
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+.no-okay{
+    background-color: rgb(255, 255, 0);
+}
